@@ -1,0 +1,449 @@
+Houses and Regions of Ice and Fire
+==================================================
+
+House Name                                         Region
+--------------------------------------------------------------------------------
+House Algood                                       The Westerlands
+House Allyrion of Godsgrace                        Dorne
+House Amber                                        The North
+House Ambrose                                      The Reach
+House Appleton of Appleton                         The Reach
+House Arryn of Gulltown                            The Vale
+House Arryn of the Eyrie                           The Vale
+House Ashford of Ashford                           The Reach
+House Ashwood                                      The North
+House Baelish of Harrenhal                         The Riverlands
+House Baelish of the Fingers                       The Vale
+House Ball                                         The Reach
+House Banefort of Banefort                         The Westerlands
+House Bar Emmon of Sharp Point                     The Crownlands
+House Baratheon of Dragonstone                     The Crownlands
+House Baratheon of King's Landing                  The Crownlands
+House Baratheon of Storm's End                     The Stormlands
+House Beesbury of Honeyholt                        The Reach
+House Belmore of Strongsong                        The Vale
+House Bettley                                      The Westerlands
+House Bigglestone                                  The Riverlands
+House Blackbar of Bandallon                        The Reach
+House Blackfyre of King's Landing                  
+House Blackmont of Blackmont                       Dorne
+House Blackmyre                                    The Neck
+House Blacktyde of Blacktyde                       Iron Islands
+House Blackwood of Raventree Hall                  The Riverlands
+House Blanetree                                    The Riverlands
+House Blount                                       The Crownlands
+House Boggs                                        The North
+House Boggs of Crackclaw Point                     The Crownlands
+House Bole                                         The North
+House Bolling                                      The Stormlands
+House Bolton of the Dreadfort                      The North
+House Borrell of Sweetsister                       The Vale
+House Botley of Lordsport                          Iron Islands
+House Bracken of Stone Hedge                       The Riverlands
+House Branch                                       The North
+House Branfield                                    The North
+House Brax of Hornvale                             The Westerlands
+House Breakstone                                   The Vale
+House Briar                                        Dorne
+House Bridges                                      The Reach
+House Brightstone                                  The Vale
+House Brook                                        Dorne
+House Broom                                        The Westerlands
+House Brownhill                                    Dorne
+House Brune of Brownhollow                         The Crownlands
+House Brune of the Dyre Den                        The Crownlands
+House Buckler of Bronzegate                        The Stormlands
+House Buckwell of the Antlers                      The Crownlands
+House Bulwer of Blackcrown                         The Reach
+House Burley                                       The North
+House Bushy                                        The Reach
+House Butterwell                                   The Riverlands
+House Byrch                                        The Crownlands
+House Bywater                                      The Crownlands
+House Cafferen of Fawnton                          The Stormlands
+House Cargyll                                      The Crownlands
+House Caron of Nightsong                           The Stormlands
+House Cassel                                       The North
+House Casterly of Casterly Rock                    The Westerlands
+House Caswell of Bitterbridge                      The Reach
+House Cave                                         The Crownlands
+House Celtigar of Claw Isle                        The Crownlands
+House Cerwyn of Cerwyn                             The North
+House Chambers                                     The Riverlands
+House Charlton                                     The Riverlands
+House Chelsted                                     The Crownlands
+House Chester of Greenshield                       The Reach
+House Chyttering                                   The Crownlands
+House Clegane                                      The Westerlands
+House Clifton                                      The Westerlands
+House Cockshaw                                     The Reach
+House Codd                                         Iron Islands
+House Coldwater of Coldwater Burn                  The Vale
+House Cole                                         The Stormlands
+House Condon                                       The North
+House Conklyn                                      The Reach
+House Connington of Griffin's Roost                The Stormlands
+House Corbray of Heart's Home                      
+House Cordwayner of Hammerhal                      The Reach
+House Costayne of Three Towers                     The Reach
+House Cox of Saltpans                              
+House Crabb                                        The Crownlands
+House Crakehall of Crakehall                       The Westerlands
+House Crane of Red Lake                            The Reach
+House Cray                                         The Neck
+House Cressey                                      The Crownlands
+House Crowl of Deepdown                            The North
+House Cuy of Sunhouse                              The Reach
+House Dalt of Lemonwood                            Dorne
+House Dargood                                      The Crownlands
+House Darke                                        The Crownlands
+House Darklyn of Duskendale                        The Crownlands
+House Darkwood                                     The Crownlands
+House Darry of Darry                               The Riverlands
+House Dayne of High Hermitage                      Dorne
+House Dayne of Starfall                            Dorne
+House Deddings                                     The Riverlands
+House Doggett                                      The Westerlands
+House Dondarrion of Blackhaven                     The Stormlands
+House Donniger                                     The Vale
+House Drinkwater                                   Dorne
+House Drox                                         The Westerlands
+House Drumm of Old Wyk                             Iron Islands
+House Dryland                                      Dorne
+House Dunn                                         The Reach
+House Durrandon                                    The Stormlands
+House Durwell                                      The Reach
+House Dustin of Barrowton                          The North
+House Edgerton                                     The Crownlands
+House Egen                                         The Vale
+House Elesham of the Paps                          The Vale
+House Erenford                                     The Riverlands
+House Errol of Haystack Hall                       The Stormlands
+House Estermont of Greenstone                      The Stormlands
+House Estren of Wyndhall                           The Westerlands
+House Falwell                                      The Westerlands
+House Farman of Faircastle                         The Westerlands
+House Farring                                      The Crownlands
+House Farwynd of Sealskin Point                    Iron Islands
+House Farwynd of the Lonely Light                  Iron Islands
+House Fell of Felwood                              The Stormlands
+House Fenn                                         The Neck
+House Ferren                                       The Westerlands
+House Fisher                                       The Riverlands
+House Fisher of the Stony Shore                    The North
+House Flint  of the mountains                      The North
+House Flint of Breakstone Hill                     The North
+House Flint of Flint's Finger                      The North
+House Flint of Widow's Watch                       The North
+House Florent of Brightwater Keep                  The Reach
+House Follard                                      The Crownlands
+House Foote                                        The Westerlands
+House Foote of Nightsong                           The Stormlands
+House Footly of Tumbleton                          The Reach
+House Forrester                                    The North
+House Fossoway of Cider Hall                       The Reach
+House Fossoway of New Barrel                       The Reach
+House Fowler of Skyreach                           Dorne
+House Frey of Riverrun                             The Riverlands
+House Frey of the Crossing                         The Riverlands
+House Frost                                        The North
+House Gardener of Highgarden                       The Reach
+House Gargalen of Salt Shore                       Dorne
+House Garner                                       The Westerlands
+House Gaunt                                        The Crownlands
+House Glenmore                                     The North
+House Glover of Deepwood Motte                     The North
+House Goodbrook                                    The Riverlands
+House Goodbrother of Corpse Lake                   Iron Islands
+House Goodbrother of Crow Spike Keep               Iron Islands
+House Goodbrother of Downdelving                   Iron Islands
+House Goodbrother of Hammerhorn                    Iron Islands
+House Goodbrother of Orkmont                       Iron Islands
+House Goodbrother of Shatterstone                  Iron Islands
+House Gower                                        The Stormlands
+House Graceford of Holyhall                        The Reach
+House Grafton of Gulltown                          The Vale
+House Grandison of Grandview                       The Stormlands
+House Graves                                       The Reach
+House Greenfield of Greenfield                     The Westerlands
+House Greengood                                    The Neck
+House Greenwood                                    The North
+House Grell                                        The Riverlands
+House Grey                                         The Riverlands
+House Greyiron of Orkmont                          Iron Islands
+House Greyjoy of Pyke                              Iron Islands
+House Greystark of Wolf's Den                      The North
+House Grimm of Greyshield                          The Reach
+House Haigh                                        The Riverlands
+House Hamell                                       The Westerlands
+House Harclay                                      The North
+House Hardy                                        The Crownlands
+House Hardyng                                      The Vale
+House Harlaw of Grey Garden                        Iron Islands
+House Harlaw of Harlaw                             Iron Islands
+House Harlaw of Harlaw Hall                        Iron Islands
+House Harlaw of Harridan Hill                      Iron Islands
+House Harlaw of the Tower of Glimmering            Iron Islands
+House Harlton                                      The Riverlands
+House Harroway of Harrenhal                        The Riverlands
+House Harte                                        The Crownlands
+House Hastwyck                                     The Reach
+House Hasty                                        The Stormlands
+House Hawick of Saltpans                           The Riverlands
+House Hawthorne                                    The Westerlands
+House Hayford of Hayford                           The Crownlands
+House Heddle                                       The Riverlands
+House Herston                                      The Stormlands
+House Hersy of Newkeep                             The Vale
+House Hetherspoon                                  The Westerlands
+House Hewett of Oakenshield                        The Reach
+House Hightower of the Hightower                   The Reach
+House Hoare of Orkmont                             Iron Islands
+House Hogg of Sow's Horn                           The Crownlands
+House Hollard                                      The Crownlands
+House Holt                                         Dorne
+House Holt                                         The North
+House Hook                                         The Riverlands
+House Hornwood of Hornwood                         The North
+House Horpe                                        The Stormlands
+House Hull                                         Dorne
+House Humble                                       Iron Islands
+House Hunt                                         The Reach
+House Hunter of Longbow Hall                       The Vale
+House Hutcheson                                    The Reach
+House Inchfield                                    The Reach
+House Ironmaker                                    Iron Islands
+House Ironsmith                                    The North
+House Jast                                         The Westerlands
+House Jordayne of the Tor                          Dorne
+House Justman                                      The Riverlands
+House Karstark of Karhold                          The North
+House Keath                                        The Riverlands
+House Kellington                                   The Stormlands
+House Kenning of Harlaw                            Iron Islands
+House Kenning of Kayce                             The Westerlands
+House Kettleblack                                  The Crownlands
+House Kidwell of Ivy Hall                          The Reach
+House Knott                                        The North
+House Kyndall                                      The Westerlands
+House Ladybright                                   Dorne
+House Lake                                         Dorne
+House Lake                                         The North
+House Langward                                     The Crownlands
+House Lannett                                      The Westerlands
+House Lannister of Casterly Rock                   The Westerlands
+House Lannister of Darry                           The Riverlands
+House Lannister of Lannisport                      The Westerlands
+House Lanny                                        The Westerlands
+House Lantell                                      The Westerlands
+House Lefford of the Golden Tooth                  The Westerlands
+House Leygood                                      The Reach
+House Liddle                                       The North
+House Lightfoot                                    The North
+House Lipps                                        The Vale
+House Locke of Oldcastle                           The North
+House Lolliston                                    The Riverlands
+House Long                                         The North
+House Longthorpe of Longsister                     The Vale
+House Longwaters                                   The Crownlands
+House Lonmouth                                     The Stormlands
+House Lorch                                        The Westerlands
+House Lothston of Harrenhal                        The Riverlands
+House Lowther                                      The Reach
+House Lyberr                                       The Reach
+House Lychester                                    The Riverlands
+House Lydden of Deep Den                           The Westerlands
+House Lynderly of the Snakewood                    The Vale
+House Magnar of Kingshouse                         The North
+House Mallery                                      The Crownlands
+House Mallister of Seagard                         The Riverlands
+House Manderly of White Harbor                     The North
+House Manning                                      The Crownlands
+House Manwoody of Kingsgrave                       Dorne
+House Marbrand of Ashemark                         The Westerlands
+House Marsh                                        The North
+House Massey of Stonedance                         The Crownlands
+House Meadows of Grassy Vale                       The Reach
+House Melcolm of Old Anchor                        The Vale
+House Merlyn of Pebbleton                          Iron Islands
+House Merryweather of Longtable                    The Reach
+House Mertyns of Mistwood                          The Stormlands
+House Middlebury                                   The Reach
+House Mollen                                       The North
+House Moore                                        The Vale
+House Mooton of Maidenpool                         The Riverlands
+House Moreland                                     The Westerlands
+House Mormont of Bear Island                       The North
+House Morrigen of Crow's Nest                      The Stormlands
+House Moss                                         The North
+House Mudd of Oldstones                            The Riverlands
+House Mullendore of Uplands                        The Reach
+House Musgood                                      The Stormlands
+House Myatt                                        The Westerlands
+House Myre of Harlaw                               Iron Islands
+House Nayland of Hag's Mire                        The Riverlands
+House Netley                                       Iron Islands
+House Norcross                                     The Reach
+House Norrey                                       The North
+House Norridge                                     The Reach
+House Nutt                                         The Riverlands
+House Nymeros Martell of Sunspear                  Dorne
+House Oakheart of Old Oak                          The Reach
+House Oldflowers                                   The Reach
+House Orkwood of Orkmont                           Iron Islands
+House Orme                                         The Reach
+House Osgrey of Leafy Lake                         The Reach
+House Osgrey of Standfast                          The Reach
+House Overton                                      The North
+House Paege                                        The Riverlands
+House Parren                                       The Westerlands
+House Payne                                        The Westerlands
+House Peake of Starpike                            The Reach
+House Peasebury of Poddingfield                    The Stormlands
+House Peat                                         The Neck
+House Peckledon                                    The Westerlands
+House Penrose of Parchments                        The Stormlands
+House Perryn                                       The Riverlands
+House Piper of Pinkmaiden                          The Riverlands
+House Plumm                                        The Westerlands
+House Pommingham                                   The Reach
+House Poole                                        The North
+House Prester of Feastfires                        The Westerlands
+House Pryor of Pebble                              The Vale
+House Pyle                                         The Crownlands
+House Pyne                                         The Crownlands
+House Qoherys of Harrenhal                         The Riverlands
+House Qorgyle of Sandstone                         Dorne
+House Quagg                                        The Neck
+House Rambton                                      The Crownlands
+House Redbeard                                     Beyond the Wall
+House Redding                                      The Reach
+House Redfort of Redfort                           The Vale
+House Redwyne of the Arbor                         The Reach
+House Reed of Greywater Watch                      The Neck
+House Reyne of Castamere                           The Westerlands
+House Rhysling                                     The Reach
+House Risley                                       The Reach
+House Rogers of Amberly                            The Stormlands
+House Rollingford                                  The Crownlands
+House Roote of Lord Harroway's Town                The Riverlands
+House Rosby of Rosby                               The Crownlands
+House Rowan of Goldengrove                         The Reach
+House Roxton of the Ring                           The Reach
+House Royce of Runestone                           The Vale
+House Royce of the Gates of the Moon               The Vale
+House Ruthermont                                   The Vale
+House Ruttiger                                     The Westerlands
+House Ryder of the Rills                           The North
+House Ryger of Willow Wood                         The Riverlands
+House Rykker of Duskendale                         The Crownlands
+House Ryswell of the Rills                         The North
+House Saltcliffe of Saltcliffe                     Iron Islands
+House Santagar of Spottswood                       Dorne
+House Sarsfield of Sarsfield                       The Westerlands
+House Sarwyck                                      The Westerlands
+House Seaworth of Cape Wrath                       The Stormlands
+House Selmy of Harvest Hall                        The Stormlands
+House Serrett of Silverhill                        The Westerlands
+House Serry of Southshield                         The Reach
+House Sharp                                        Iron Islands
+House Shawney                                      The Riverlands
+House Shell                                        Dorne
+House Shell                                        The Vale
+House Shepherd                                     Iron Islands
+House Shermer of Smithyton                         The Reach
+House Shett of Gull Tower                          The Vale
+House Shett of Gulltown                            The Vale
+House Slate of Blackpool                           The North
+House Sloane                                       The Reach
+House Slynt of Harrenhal                           None
+House Smallwood of Acorn Hall                      The Riverlands
+House Sparr of Great Wyk                           Iron Islands
+House Spicer of Castamere                          The Westerlands
+House Stackhouse                                   The Reach
+House Stackspear                                   The Westerlands
+House Staedmon of Broad Arch                       The Stormlands
+House Stane of Driftwood Hall                      The North
+House Stark of Winterfell                          The North
+House Staunton of Rook's Rest                      The Crownlands
+House Stokeworth of Stokeworth                     The Crownlands
+House Stonehouse of Old Wyk                        Iron Islands
+House Stonetree of Harlaw                          Iron Islands
+House Stout of Goldgrass                           The North
+House Strickland                                   
+House Strong of Harrenhal                          The Riverlands
+House Sunderland of the Three Sisters              The Vale
+House Sunderly of Saltcliffe                       Iron Islands
+House Sunglass of Sweetport Sound                  The Crownlands
+House Swann of Stonehelm                           The Stormlands
+House Swyft of Cornfield                           The Westerlands
+House Swygert                                      The Stormlands
+House Tallhart of Torrhen's Square                 The North
+House Tarbeck of Tarbeck Hall                      The Westerlands
+House Targaryen of King's Landing                  The Crownlands
+House Tarly of Horn Hill                           The Reach
+House Tarth of Evenfall Hall                       The Stormlands
+House Tawney of Orkmont                            Iron Islands
+House Teague                                       The Riverlands
+House Templeton                                    
+House Terrick                                      The Riverlands
+House Thenn                                        The North
+House Thorne                                       The Crownlands
+House Toland of Ghost Hill                         Dorne
+House Tollett of the Grey Glen                     The Vale
+House Torrent of Littlesister                      The Vale
+House Towers                                       The North
+House Towers of Harrenhal                          The Riverlands
+House Toyne                                        The Stormlands
+House Trant of Gallowsgrey                         The Stormlands
+House Tudbury                                      The Stormlands
+House Tully of Riverrun                            The Riverlands
+House Turnberry                                    The Westerlands
+House Tyrell of Brightwater Keep                   The Reach
+House Tyrell of Highgarden                         The Reach
+House Uffering                                     The Reach
+House Uller of Hellholt                            Dorne
+House Umber of the Last Hearth                     The North
+House Upcliff                                      The Vale
+House Vaith of the Red Dunes                       Dorne
+House Vance of Atranta                             The Riverlands
+House Vance of Wayfarer's Rest                     The Riverlands
+House Varner                                       The Reach
+House Velaryon of Driftmark                        The Crownlands
+House Vikary                                       The Westerlands
+House Volmark                                      Iron Islands
+House Vypren                                       
+House Vyrwel of Darkdell                           The Reach
+House Wade                                         Dorne
+House Wagstaff                                     The Stormlands
+House Waterman                                     The North
+House Waxley of Wickenden                          The Vale
+House Wayn                                         The Riverlands
+House Waynwood of Ironoaks                         The Vale
+House Weaver                                       Iron Islands
+House Webber of Coldmoat                           The Reach
+House Wells                                        Dorne
+House Wells                                        The North
+House Wendwater                                    The Crownlands
+House Wensington                                   The Stormlands
+House Westbrook                                    The Reach
+House Westerling of the Crag                       The Westerlands
+House Westford                                     The Westerlands
+House Whent of Harrenhal                           The Riverlands
+House Whitehill                                    The North
+House Willum                                       The Reach
+House Wode                                         The Riverlands
+House Woodfoot of Bear Island                      The North
+House Woods                                        The North
+House Woodwright                                   The Reach
+House Woolfield                                    The North
+House Wull                                         The North
+House Wydman                                       The Vale
+House Wyl of the Boneway                           Dorne
+House Wylde of Rain House                          The Stormlands
+House Wynch of Iron Holt                           Iron Islands
+House Wythers                                      The Reach
+House Yarwyck                                      The Westerlands
+House Yelshire                                     The Reach
+House Yew                                          The Westerlands
+House Yronwood of Yronwood                         Dorne
