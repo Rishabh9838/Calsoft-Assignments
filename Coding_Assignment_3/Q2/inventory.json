@@ -1,0 +1,39 @@
+{
+    "hosts": [
+        {
+            "ip": "10.217.09.18",
+            "os": "Windows",
+            "memory": "2GB",
+            "cpu": "3.1Ghz",
+            "disk": "100GB"
+        },
+        {
+            "ip": "10.217.09.19",
+            "os": "Windows",
+            "memory": "4GB",
+            "cpu": "3.8Ghz",
+            "disk": "150GB"
+        },
+        {
+            "ip": "10.217.09.21",
+            "os": "Linux",
+            "memory": "2GB",
+            "cpu": "2.6Ghz",
+            "disk": "200GB"
+        },
+        {
+            "ip": "10.217.09.23",
+            "os": "Windows",
+            "memory": "2GB",
+            "cpu": "2.6Ghz",
+            "disk": "100GB"
+        },
+        {
+            "ip": "10.217.09.24",
+            "os": "Linux",
+            "memory": "16GB",
+            "cpu": "1Ghz",
+            "disk": "100GB"
+        }
+    ]
+}

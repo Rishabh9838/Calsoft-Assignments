@@ -1,0 +1,1 @@
+﻿IP: 10.217.09.24, OS: Linux, Memory: 16GB, CPU: 1Ghz, Disk: 100GB
